@@ -1,0 +1,11 @@
+C:\Users\lab502\Desktop\workSheet5\workSheet5\bin\Debug\workSheet5.exe.config
+C:\Users\lab502\Desktop\workSheet5\workSheet5\bin\Debug\workSheet5.exe
+C:\Users\lab502\Desktop\workSheet5\workSheet5\bin\Debug\workSheet5.pdb
+C:\Users\lab502\Desktop\workSheet5\workSheet5\obj\Debug\workSheet5.csproj.AssemblyReference.cache
+C:\Users\lab502\Desktop\workSheet5\workSheet5\obj\Debug\workSheet5.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab502\Desktop\workSheet5\workSheet5\obj\Debug\workSheet5.Form1.resources
+C:\Users\lab502\Desktop\workSheet5\workSheet5\obj\Debug\workSheet5.Properties.Resources.resources
+C:\Users\lab502\Desktop\workSheet5\workSheet5\obj\Debug\workSheet5.csproj.GenerateResource.cache
+C:\Users\lab502\Desktop\workSheet5\workSheet5\obj\Debug\workSheet5.csproj.CoreCompileInputs.cache
+C:\Users\lab502\Desktop\workSheet5\workSheet5\obj\Debug\workSheet5.exe
+C:\Users\lab502\Desktop\workSheet5\workSheet5\obj\Debug\workSheet5.pdb
